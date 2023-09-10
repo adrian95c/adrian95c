@@ -6,7 +6,7 @@
 [![Steam Badge](https://img.shields.io/badge/-Steam-2a475e?style=flat-square&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198336338436/) 
 
 #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27"> About Me:
-- 👨‍💻 &nbsp; I'm Software Engineering working in Supply Chain industry in Malaysia.
+- 👨‍💻 &nbsp; I'm Software Engineer working in supply chain industry in Malaysia.
 - 🚀 &nbsp; I’m currently learning Full Stack Development. 🔥
 - ❤️ &nbsp; I love exploring new tech stack and building cool stuffs. ✨
 - 👾 &nbsp; Fun fact: I'm a outdoor enthusiast 🏕️ and I like cooking. 🥪
