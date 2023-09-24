@@ -1,4 +1,4 @@
-## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27">, I'm [Adrian!](https://github.com/adrian95c/)
+## Hey, I'm [Adrian!](https://github.com/adrian95c/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27">
 
 <!-- https://devicon.dev/ for icons -->
 <!-- Social -->
@@ -6,7 +6,7 @@
 [![Steam Badge](https://img.shields.io/badge/-Steam-2a475e?style=flat-square&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198336338436/) 
 
 #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27"> About Me:
-- 👨‍💻 &nbsp; I'm Software Engineer working in supply chain industry in Malaysia.
+- 👨‍💻 &nbsp; I'm software engineer working in supply chain industry in Malaysia.
 - 🚀 &nbsp; I’m currently learning Full Stack Development. 🔥
 - ❤️ &nbsp; I love exploring new tech stack and building cool stuffs. ✨
 - 👾 &nbsp; Fun fact: I'm a outdoor enthusiast 🏕️ and I like cooking. 🥪
